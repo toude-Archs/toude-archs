@@ -1,4 +1,10 @@
-Hi everyone, welcome to my Github 👋
+
+![image](https://user-images.githubusercontent.com/100583551/181387767-8d48b94e-07e3-471b-8ba6-bb97403a4d6f.png)
+
+
+Hi !
+
+welcome to my Github 👋
 Here you will find projects in Python/html/css/bash
 
 I'm straight
