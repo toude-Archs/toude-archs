@@ -5,7 +5,7 @@
 Hi !
 
 welcome to my Github 👋
-Here you will find projects in Python/html/css/bash
+Here you will find projects in Python/html/css/bash/C
 
 I'm straight
  
