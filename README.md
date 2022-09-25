@@ -1,10 +1,10 @@
 # Hello, World! 👋
 
 My Name
->I'am toude / Michel Medhi  👦                  
+>I am toude / Michel Medhi  👦                  
 
 My Years
->I'ave 13 years Old 🎂
+>I m 13 years Old 🎂
 
 DEV
 >I dev in C/Python/html/CSS I use JetBrains For IDE 💻
