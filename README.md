@@ -13,9 +13,24 @@ DEV
 
 # My Computer 💻
 
-![image](https://github.com/toude-Archs/ArchLinux/blob/main/Screenshot_20220924_103659.png?raw=true)
+                 -`                   ┌───────── Hardware Information ─────────┐ 
+                  .o+`​                   ​ HP Laptop 14s-fq0xxx 
+                 `ooo/​                   ​  Athlon Silver 3050U with Radeon Graphics (2) 
+                `+oooo:​                  ​  ATI Radeon Vega Series / Radeon Vega Mobile Series 
+               `+oooooo:​                 ​   3438MiB / 5809MiB (59%) 
+               -+oooooo+:​                ​   1366x768 @ 60.00Hz, 1920x1080 @ 60.00Hz 
+             `/:-:++oooo+:              ├───────── Software Information ─────────┤ 
+            `/++++/+++++++:​              ​     Arch Linux 
+           `/++++++++++++++:​             ​     5.19.10-arch1-1 
+          `/+++ooooooooooooo/`​           ​     KWin 
+         ./ooosssso++osssssso+`​          ​     bash 5.1.16 
+        .oossssso-````/ossssss+`​         ​     konsole 
+       -osssssso.      :ssssssso.​        ​     1578 (pacman), 8 (flatpak) 
+      :osssssss/        osssso+++.      └───────────────────────────────────────┘ 
+     /ossssssss/        +ssssooo/-            
+
  Is a Laptop
- ```Running in ArchLinux KDE```
+
  
  # Network
  
