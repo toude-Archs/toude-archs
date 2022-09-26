@@ -9,7 +9,7 @@ My Years
 DEV
 >I dev in C/Python/html/CSS I use JetBrains For IDE 💻
 
-![image](https://github.com/toude-Archs/Profile/blob/main/jjh.png?raw=true)
+
 
 # My Computer 💻
 
