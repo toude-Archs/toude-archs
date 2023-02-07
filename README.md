@@ -7,11 +7,11 @@ My Years 🎂
 >I m 13 years Old 
 
 DEV 👨‍💻
->I dev in C/Python/html/CSS 
+>I dev in C/Python/NodeJS/CSS/PHP 
 
 IDE 🖥️
 
-> I use JetBrains IDE PyCharm/Intellij IDEA/CLion/WebStore ALL Pro or Ultimate
+> I use VScode
 
 # My Computer 💻
 
