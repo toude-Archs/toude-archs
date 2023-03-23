@@ -19,8 +19,7 @@ IDE 🖥️
 # My Computer 💻
 
         
- ![image](https://github.com/toude-Archs/ArchLinux/blob/main/Screenshot_20220926_183919.png?raw=true)  
-   
+  
    
    >HP Laptop 14s-fq0xxx 
    
@@ -28,7 +27,6 @@ IDE 🖥️
    
    >ATI Radeon Vega Series / Radeon Vega Mobile Series 
    
-   >3438MiB / 5809MiB (59%)
 
  Is a Laptop
 
