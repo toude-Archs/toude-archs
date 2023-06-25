@@ -4,28 +4,28 @@
 
 
 My Name 👦 
->I am toude / Michel Medhi                    
+- I am toude / Michel Medhi                    
 
 My Years 🎂
->I m 13 years Old 
+- I m 13 years Old 
 
 DEV 👨‍💻
->I dev in C/Python/NodeJS/CSS/PHP 
+- I dev in C/Python/NodeJS/CSS/PHP 
 
 IDE 🖥️
 
-> I use VScode
+- I use VScode
 
 # My Computer 💻
 
         
   
    
-   >HP Laptop 14s-fq0xxx 
+   - HP Laptop 14s-fq00014nf 
    
-   >AMD Athlon Silver 3050U with Radeon Graphics (2) 
+   - AMD Athlon Silver 3050U with Radeon Graphics (2) 
    
-   >ATI Radeon Vega Series / Radeon Vega Mobile Series 
+   - ATI Radeon Vega Series / Radeon Vega Mobile Series 
    
 
  Is a Laptop
