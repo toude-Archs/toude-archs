@@ -32,9 +32,6 @@ IDE 🖥️
 
  
  # Network
- 
- My Discord 🎤
- >[Discord](https://discord.gg/z5gg4J4J33)
- 
- My Youtube ▶️
- >[YouTube](https://www.youtube.com/channel/UC1aCxBgaouzoEV3PVpOsxSw)
+
+ - [Discord 💬](https://discord.gg/z5gg4J4J33)
+ - [YouTube](https://www.youtube.com/channel/UC1aCxBgaouzoEV3PVpOsxSw)
