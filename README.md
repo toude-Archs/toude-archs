@@ -28,5 +28,5 @@ SoftWare 🛍️
 
 # My social network 
 
-![📷 | Insta](https://www.instagram.com/toudearch/) ![💬 | Discord](https://discord.gg/NhVT87VB5S) ![🎥 | YouTube](https://www.youtube.com/channel/UCGsDq-0RqxDfNLo-XGV5k_w)
+[📷 | Insta](https://www.instagram.com/toudearch/) [💬 | Discord](https://discord.gg/NhVT87VB5S) [🎥 | YouTube](https://www.youtube.com/channel/UCGsDq-0RqxDfNLo-XGV5k_w)
 
