@@ -6,6 +6,7 @@
 Me 👦 
 - I am toude / Michel Medhi                    
 - I m 13 years Old 🎂
+- I m french 🇫🇷
 
 DEV 👨‍💻
 - I dev in C/Python/NodeJS/CSS/PHP 
@@ -20,7 +21,12 @@ SoftWare 🛍️
 # My Computer 💻
         
 - HP Laptop 14s-fq00014nf 
-- AMD Athlon Silver 3050U with Radeon Graphics (2)    
-- ATI Radeon Vega Series / Radeon Vega Mobile Series
-<img src="dddddssyo.png" align="right" width="350">
+- CPU : AMD Athlon Silver 3050U
+- GPU : ATI Radeon Vega Series / Radeon Vega Mobile Series
+- RAM : 8 go DDR4
+
+
+# My social network 
+
+![📷 | Insta](https://www.instagram.com/toudearch/) ![💬 | Discord](https://discord.gg/NhVT87VB5S) ![🎥 | YouTube](https://www.youtube.com/channel/UCGsDq-0RqxDfNLo-XGV5k_w)
 
