@@ -4,6 +4,7 @@
 <img src="anime_girl_pfp_2_by_kenkanekiart_dfbouue-pre.jpg" align="right" width="280">
 
 
+
 Me 👦 
 - I am toude / Michel Medhi                    
 - I m 13 years Old 🎂
@@ -11,7 +12,7 @@ Me 👦
 
 DEV 👨‍💻
 - I dev in C/Python/NodeJS/CSS/PHP 
-- I use [NeoVim](https://neovim.io/) 🖥️ | I use [Gentoo](https://www.gentoo.org/)   
+- I use [NeoVim](https://neovim.io/) 🖥️ | I use [Gentoo](https://www.gentoo.org/)   <img src="gentoo-signet.svg" width="22px">
 
 SoftWare 🛍️
 - I use [Chrome](chrome.com) For the browser
