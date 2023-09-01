@@ -10,7 +10,7 @@ Me 👦
 
 DEV 👨‍💻
 - I dev in C/Python/NodeJS/CSS/PHP 
-- I use [NeoVim](https://neovim.io/) 🖥️ | I use [Artix](https://artixlinux.org/)
+- I use [NeoVim](https://neovim.io/) 🖥️ | I use [Gentoo](https://www.gentoo.org/)
 
 SoftWare 🛍️
 - I use [Chrome](chrome.com) For the browser
