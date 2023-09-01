@@ -1,16 +1,17 @@
 # Hello, World! 👋
 
 
-<img src="، 𝔭𝔧𝔪𝔠𝔞𝔣𝔢.jpg" align="right" width="280">
+<img src="anime_girl_pfp_2_by_kenkanekiart_dfbouue-pre.jpg" align="right" width="280">
+
 
 Me 👦 
 - I am toude / Michel Medhi                    
 - I m 13 years Old 🎂
-- I m french 🇫🇷
+- I m french 🇫🇷        
 
 DEV 👨‍💻
 - I dev in C/Python/NodeJS/CSS/PHP 
-- I use [NeoVim](https://neovim.io/) 🖥️ | I use [Gentoo](https://www.gentoo.org/)
+- I use [NeoVim](https://neovim.io/) 🖥️ | I use [Gentoo](https://www.gentoo.org/)   
 
 SoftWare 🛍️
 - I use [Chrome](chrome.com) For the browser
