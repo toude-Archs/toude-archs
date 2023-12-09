@@ -1,7 +1,7 @@
 # Hello, World! 👋
 
 
-<img src="anime_girl_pfp_2_by_kenkanekiart_dfbouue-pre.jpg" align="right" width="280">
+<img src="tux.png" align="right" width="280">
 
 
 
